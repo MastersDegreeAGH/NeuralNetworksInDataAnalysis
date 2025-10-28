@@ -1,3 +1,6 @@
 *.dat
 1_BasicMatrixOperations/mnists
+3_CDkAlgorithm/mnists
+4_PCD_Algorithm/mnists
 sieci_neuronowe
+venv/
